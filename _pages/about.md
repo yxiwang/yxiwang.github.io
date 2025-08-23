@@ -32,13 +32,25 @@ Please do not hesitate to reach out if you would like to explore possible collab
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/HardPatchMining.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Bootstrap Masked Visual Modeling Via Hard Patch Mining** [[Paper](https://arxiv.org/pdf/2312.13714) [Code](https://github.com/Haochen-Wang409/HPM)]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Haochen Wang, Junsong Fan, **Yuxi Wang**, Kaiyou Song, Tiancai Wang, Xiangyu Zhang, Zhaoxiang Zhang. **IEEE TPAMI 2025**
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/U2PL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Using unreliable pseudo-labels for label-efficient semantic segmentation** [[Paper](https://arxiv.org/pdf/2306.02314) [Code](https://github.com/Haochen-Wang409/U2PL)]
+
+Haochen Wang, Yuchao Wang, Yujun Shen, Junsong Fan, **Yuxi Wang**, Zhaoxiang Zhang. **IJCV 2025**
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">T-PAMI 2024</div><img src='images/ATP.png' alt="sym"></div>
 <div class='paper-box-text' markdown="1">
@@ -49,93 +61,75 @@ Please do not hesitate to reach out if you would like to explore possible collab
 </div>
 </div>
 
-<style>
-.paper-box {
-  display: flex;          
-  align-items: flex-start;    
-  margin-bottom: 25px;
-}
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/T2S-DA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-.paper-box-image {
-  position: relative;
-  margin-right: 20px;     
-}
+**Pulling target to source: A new perspective on domain adaptive semantic segmentation** [[Paper](https://arxiv.org/pdf/2305.13752)]
 
-.paper-box-image img {
-  width: 140px;           
-  height: auto;           
-  border-radius: 4px;    
-}
-</style>
+Haochen Wang, Yujun Shen, Jingjing Fei, Wei Li, Liwei Wu, **Yuxi Wang#**, Zhaoxiang Zhang. **IJCV 2024**
 
-<div class="paper-box">
-  <!-- 图片部分 -->
-  <div class="paper-box-image">
-    <span class="badge">ICLR 2025</span>
-    <img src="images/ATP.png" alt="Paper Image">
-  </div>
-
-  <!-- 文字部分 -->
-  <div class="paper-box-text">
-    <strong>CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes</strong>
-    [<a href="https://example.com/paper">Paper</a>] 
-    [<a href="https://example.com/project">Project</a>]
-    <br><br>
-    Yang Liu, <strong>Chuanchen Luo</strong>, Zhongkai Mao, Junran Peng, Zhaoxiang Zhang
-  </div>
+</div>
 </div>
 
-<style>
-.paper-box {
-  display: flex;             
-  align-items: flex-start;    
-  margin-bottom: 25px;       
-}
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/SACL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-.paper-box-image {
-  position: relative;         
-  margin-right: 20px;         
-}
+**Enhancing Sound Source Localization via False Negative Elimination** [[Paper](https://arxiv.org/pdf/2408.16448) [Code](https://github.com/zjsong/SACL)]
 
-.paper-box-image img {
-  width: 260px;              
-  height: auto;              
-  border-radius: 4px;        
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-}
+Zengjie Song, Jiangshe Zhang, **Yuxi Wang**, Junsong Fan, Zhaoxiang Zhang. **IEEE TPAMI 2024**
 
-.badge {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  background: #1E40AF;        
-  color: #fff;
-  font-size: 13px;
-  font-weight: bold;
-  padding: 2px 8px;
-  border-radius: 3px;
-}
+</div>
+</div>
 
-.paper-box-text {
-  max-width: 700px;
-  font-size: 15px;
-  line-height: 1.6;
-}
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/SACL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-.paper-box-text strong {
-  font-weight: 600;
-}
+**MMT: Cross Domain Few-shot Learning via Meta-memory Transfer** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224305)]
 
-.paper-box-text a {
-  color: #1E3A8A;
-  text-decoration: none;
-}
+Wenjian Wang, Lijuan Duan, **Yuxi Wang**, Junsong Fan, Zhaoxiang Zhang. **IEEE TPAMI 2024**
 
-.paper-box-text a:hover {
-  text-decoration: underline;
-}
-</style>
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/SceneX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SceneX : Procedural Controllable Large-scale Scene Generation** [[Paper](https://arxiv.org/pdf/2403.15698) [Project](https://zhouzq1.github.io/SceneX/)]
+
+Mengqi Zhou*, **Yuxi Wang***, Jun Hou, Shougao Zhang, Yiwei Li, Chuanchen Luo, Junran Peng, Zhaoxiang Zhang. **AAAI 2025**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/Material3DSeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Materialseg3d: Segmenting dense materials from 2d priors for 3d assets** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680757) [Code](https://github.com/PROPHETE-pro/MaterialSeg3D) [Project](https://materialseg3d.github.io/)[Data](https://drive.google.com/file/d/1wDJg7Rp4AYn1OAKvZONrKj62Jd2cdID0/view)]
+
+Zeyu Li, Ruitong Gan, Chuanchen Luo, **Yuxi Wang**, Jiaheng Liu, Ziwei Zhu, Qing Li, Xucheng Yin, Man Zhang, Zhaoxiang Zhang, Junran Peng. **ACM MM 2024** (*Orial*)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/Material3DSeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Stablemofusion: Towards robust and efficient diffusion-based motion generation framework** [[Paper](https://arxiv.org/pdf/2405.05691) [Code](https://github.com/Linketic/StableMoFusion) [Project](https://h-y1heng.github.io/StableMoFusion-page/)]
+
+Yiheng Huang, Hui Yang, Chuanchen Luo, **Yuxi Wang**, Shibiao Xu, Zhaoxiang Zhang, Man Zhang, Junran Peng. **ACM MM 2024** (*Orial*)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/GGSD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Open vocabulary 3d scene understanding via geometry guided self-distillation** [[Paper](https://arxiv.org/pdf/2407.13362?) [Code](t https://github.com/Wang-pengfei/GGSD)]
+
+Pengfei Wang, **Yuxi Wang**, Shuai Li, Zhaoxiang Zhang, Zhen Lei, Lei Zhang. **ECCV 2024** 
+
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
