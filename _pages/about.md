@@ -42,7 +42,7 @@ Haochen Wang, Junsong Fan, **Yuxi Wang**, Kaiyou Song, Tiancai Wang, Xiangyu Zha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/U2PL.png' alt="sym" width="200" height="60"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/U2PL.png' alt="sym" width="70%" height="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Using unreliable pseudo-labels for label-efficient semantic segmentation** [[Paper](https://arxiv.org/pdf/2306.02314) [Code](https://github.com/Haochen-Wang409/U2PL)]
@@ -52,7 +52,7 @@ Haochen Wang, Yuchao Wang, Yujun Shen, Junsong Fan, **Yuxi Wang**, Zhaoxiang Zha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">T-PAMI 2024</div><img src='images/ATP.png' alt="sym" width="100%" height="30%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">T-PAMI 2024</div><img src='images/ATP.png' alt="sym" width="70%" height="30%"></div>
 <div class='paper-box-text' markdown="1">
 
 **A Curriculum-style Self-training Approach for Source-free Semantic Segmentation** [[Paper](https://arxiv.org/pdf/2106.11653)] [[code](https://github.com/yxiwang/ATP)] \\
