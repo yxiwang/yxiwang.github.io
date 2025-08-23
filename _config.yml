@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Yuxi Wang"
-description              : "Associate Professor "
+description              : "Associate Professor"
 repository               : "yxiwang/yxiwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "waLCodcAAAAJ" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuxi Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "OCEAN UNIVERSITY OF CHINA (OUC)"
+  avatar           : "images/Wangyuxi.jpg"
+  bio              : "Ocean University of China (OUC)"
   location         : "Qingdao, China"
   employer         :
   pubmed           : 
