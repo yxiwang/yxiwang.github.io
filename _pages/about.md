@@ -42,6 +42,36 @@ Haochen Wang, Junsong Fan, **Yuxi Wang**, Kaiyou Song, Tiancai Wang, Xiangyu Zha
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2023</div>
+      <div style="width:40px; height:20px; object-fit:contain;"></div>
+      <img src='images/HardPatchMining.png' alt="HPM" width="100%" height="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    **Hard Patches Mining for Masked Image Modeling** [[Paper](https://arxiv.org/pdf/2304.05919) [Code](https://github.com/Haochen-Wang409/HPM)]
+
+    Haochen Wang, Kaiyou Song, Junsong Fan, **Yuxi Wang**, Jin Xie, Zhaoxiang Zhang. **IEEE CVPR 2023**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TPAMI 2025</div>
+      <div style="width:40px; height:20px; object-fit:contain;"></div>
+      <img src='images/MaskedVideoModeling.png' alt="HPM Video" width="100%" height="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    **Bootstrap Masked Visual Modeling Via Hard Patch Mining** [[Paper](https://arxiv.org/pdf/2312.13714) [Code](https://github.com/Haochen-Wang409/HPM)]
+
+    Haochen Wang, Junsong Fan, **Yuxi Wang**, Kaiyou Song, Tiancai Wang, Xiangyu Zhang, Zhaoxiang Zhang. **IEEE TPAMI 2025**
+  </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/U2PL.png' alt="sym" width="70%" height="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
