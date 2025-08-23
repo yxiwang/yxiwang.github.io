@@ -124,9 +124,79 @@ Yiheng Huang, Hui Yang, Chuanchen Luo, **Yuxi Wang**, Shibiao Xu, Zhaoxiang Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/GGSD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Open vocabulary 3d scene understanding via geometry guided self-distillation** [[Paper](https://arxiv.org/pdf/2407.13362?) [Code](t https://github.com/Wang-pengfei/GGSD)]
+**Open vocabulary 3d scene understanding via geometry guided self-distillation** [[Paper](https://arxiv.org/pdf/2407.13362?) [Code](https://github.com/Wang-pengfei/GGSD)]
 
 Pengfei Wang, **Yuxi Wang**, Shuai Li, Zhaoxiang Zhang, Zhen Lei, Lei Zhang. **ECCV 2024** 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/HardMo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hardmo: A large-scale hardcase dataset for motion capture** [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_HardMo_A_Large-Scale_Hardcase_Dataset_for_Motion_Capture_CVPR_2024_paper.pdf) [Project](https://ljqnb.github.io/HardMo.github.io/)]
+
+Jiaqi Liao, Chuanchen Luo, Yinuo Du, **Yuxi Wang**, Xucheng Yin, Man Zhang, Zhaoxiang Zhang, Junran Peng. **CVPR 2024** 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/ContiouFL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Continual forgetting for pre-trained vision models** [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Continual_Forgetting_for_Pre-trained_Vision_Models_CVPR_2024_paper.pdf) [Code](https://github.com/bjzhb666/GS-LoRA)]
+
+Hongbo Zhao, Bolin Ni, Junsong Fan, **Yuxi Wang**, Yuntao Chen, Gaofeng Meng, Zhaoxiang Zhang. **CVPR 2024** 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/HPM-Neurips.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9098e2901b4eb54772f83535f89cb8ac-Paper-Conference.pdf) [Code](https://github.com/Haochen-Wang409/DropPos)]
+
+Haochen Wang, Junsong Fan, **Yuxi Wang**, Kaiyou Song, Tong Wang, Zhaoxiang Zhang. **NeurIPS 2023** 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/SSF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SSF: Accelerating training of spiking neural networks with stabilized spiking flow** [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_SSF_Accelerating_Training_of_Spiking_Neural_Networks_with_Stabilized_Spiking_ICCV_2023_paper.pdf)]
+
+Jingtao Wang, Zengjie Song, **Yuxi Wang**, Jun Xiao, Yuran Yang, Shuqi Mei, Zhaoxiang Zhang. **ICCV 2023** 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/IDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Informative data mining for one-shot cross-domain semantic segmentation** [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Informative_Data_Mining_for_One-Shot_Cross-Domain_Semantic_Segmentation_ICCV_2023_paper.pdf) [Code](https://github.com/yxiwang/IDM)]
+
+**Yuxi Wang**, Jian Liang, Jun Xiao, Shuqi Mei, Yuran Yang, Zhaoxiang Zhang. **ICCV 2023** 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/IDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hard patches mining for masked image modeling** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Hard_Patches_Mining_for_Masked_Image_Modeling_CVPR_2023_paper.pdf) [Code](https://github.com/Haochen-Wang409/HPM)]
+
+Haochen Wang, Kaiyou Song, Junsong Fan, **Yuxi Wang**, Jin Xie, Zhaoxiang Zhang. **CVPR 2022** 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/IDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Uncertainty-aware pseudo label refinery for domain adaptive semantic segmentation** [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Uncertainty-Aware_Pseudo_Label_Refinery_for_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.pdf)]
+
+**Yuxi Wang**, Junran Peng, Zhaoxiang Zhang. **ICCV 2021** 
 
 </div>
 </div>
