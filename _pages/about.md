@@ -45,14 +45,16 @@ Please do not hesitate to reach out if you would like to explore possible collab
 .paper-box {
   display: flex;          
   align-items: flex-start;    
+  margin-bottom: 25px;
 }
 
 .paper-box-image {
-  margin-right: 5px;     
+  position: relative;
+  margin-right: 20px;     
 }
 
 .paper-box-image img {
-  width: 14px;           
+  width: 140px;           
   height: auto;           
   border-radius: 4px;    
 }
