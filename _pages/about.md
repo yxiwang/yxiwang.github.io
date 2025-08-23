@@ -44,7 +44,7 @@ Please do not hesitate to reach out if you would like to explore possible collab
 <style>
 .paper-box {
   display: flex;          
-  align-items: center;    
+  align-items: flex-start;    
 }
 
 .paper-box-image {
