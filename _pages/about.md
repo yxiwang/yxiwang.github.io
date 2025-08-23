@@ -60,6 +60,75 @@ Please do not hesitate to reach out if you would like to explore possible collab
 }
 </style>
 
+<div class="paper-box">
+  <!-- 图片部分 -->
+  <div class="paper-box-image">
+    <span class="badge">ICLR 2025</span>
+    <img src="images/paper_example.png" alt="Paper Image">
+  </div>
+
+  <!-- 文字部分 -->
+  <div class="paper-box-text">
+    <strong>CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes</strong>
+    [<a href="https://example.com/paper">Paper</a>] 
+    [<a href="https://example.com/project">Project</a>]
+    <br><br>
+    Yang Liu, <strong>Chuanchen Luo</strong>, Zhongkai Mao, Junran Peng, Zhaoxiang Zhang
+  </div>
+</div>
+
+<style>
+.paper-box {
+  display: flex;             
+  align-items: flex-start;    
+  margin-bottom: 25px;       
+}
+
+.paper-box-image {
+  position: relative;         
+  margin-right: 20px;         
+}
+
+.paper-box-image img {
+  width: 260px;              
+  height: auto;              
+  border-radius: 4px;        
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: #1E40AF;        
+  color: #fff;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+
+.paper-box-text {
+  max-width: 700px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.paper-box-text strong {
+  font-weight: 600;
+}
+
+.paper-box-text a {
+  color: #1E3A8A;
+  text-decoration: none;
+}
+
+.paper-box-text a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
