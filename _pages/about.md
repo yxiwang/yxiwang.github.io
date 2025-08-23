@@ -32,7 +32,7 @@ Please do not hesitate to reach out if you would like to explore possible collab
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/HardPatchMining.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/HardPatchMining.png' alt="sym" width="300" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bootstrap Masked Visual Modeling Via Hard Patch Mining** [[Paper](https://arxiv.org/pdf/2312.13714) [Code](https://github.com/Haochen-Wang409/HPM)]
@@ -42,7 +42,7 @@ Haochen Wang, Junsong Fan, **Yuxi Wang**, Kaiyou Song, Tiancai Wang, Xiangyu Zha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/U2PL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/U2PL.png' alt="sym" width="300" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Using unreliable pseudo-labels for label-efficient semantic segmentation** [[Paper](https://arxiv.org/pdf/2306.02314) [Code](https://github.com/Haochen-Wang409/U2PL)]
