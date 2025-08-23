@@ -48,11 +48,11 @@ Please do not hesitate to reach out if you would like to explore possible collab
 }
 
 .paper-box-image {
-  margin-right: 15px;     
+  margin-right: 5px;     
 }
 
 .paper-box-image img {
-  width: 140px;           
+  width: 14px;           
   height: auto;           
   border-radius: 4px;    
 }
