@@ -32,11 +32,11 @@ Please do not hesitate to reach out if you would like to explore possible collab
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Curriculum-style Self-training Approach for Source-free Semantic Segmentation][Paper](https://arxiv.org/pdf/2106.11653) [code](https://github.com/yxiwang/ATP)
-**Yuxi Wang**, Jian Liang, Zhaoxiang Zhang
+**A Curriculum-style Self-training Approach for Source-free Semantic Segmentation** [[Paper](https://arxiv.org/pdf/2106.11653)] [[code](https://github.com/yxiwang/ATP)] \\
+**Yuxi Wang**, Jian Liang, Zhaoxiang Zhang. **IEEE TPAMI 2024**
 
 </div>
 </div>
