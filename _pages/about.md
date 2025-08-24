@@ -151,7 +151,7 @@ Hongbo Zhao, Bolin Ni, Junsong Fan, **Yuxi Wang**, Yuntao Chen, Gaofeng Meng, Zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/HPM-Neurips.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DropPos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9098e2901b4eb54772f83535f89cb8ac-Paper-Conference.pdf) [Code](https://github.com/Haochen-Wang409/DropPos)]
@@ -181,7 +181,7 @@ Jingtao Wang, Zengjie Song, **Yuxi Wang**, Jun Xiao, Yuran Yang, Shuqi Mei, Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/IDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/HardPatch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Hard patches mining for masked image modeling** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Hard_Patches_Mining_for_Masked_Image_Modeling_CVPR_2023_paper.pdf) [Code](https://github.com/Haochen-Wang409/HPM)]
@@ -191,7 +191,7 @@ Haochen Wang, Kaiyou Song, Junsong Fan, **Yuxi Wang**, Jin Xie, Zhaoxiang Zhang.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/IDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/UncerDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Uncertainty-aware pseudo label refinery for domain adaptive semantic segmentation** [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Uncertainty-Aware_Pseudo_Label_Refinery_for_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.pdf)]
@@ -201,7 +201,26 @@ Haochen Wang, Kaiyou Song, Junsong Fan, **Yuxi Wang**, Jin Xie, Zhaoxiang Zhang.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/I2I-TIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-domain image-to-image translation via a unified circular framework** [[Paper](https://ieeexplore.ieee.org/abstract/document/9262049)]
+
+**Yuxi Wang**, Zhaoxiang Zhang, Wangli Hao, Chunfeng Song. **IEEE TIP 2021** 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/MSDA-TIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Attention guided multiple source and target domain adaptation** [[Paper](https://ieeexplore.ieee.org/abstract/document/9242273/)]
+
+**Yuxi Wang**, Zhaoxiang Zhang, Wangli Hao, Chunfeng Song. **IEEE TIP 2021** 
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
