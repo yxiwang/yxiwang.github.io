@@ -171,7 +171,7 @@ Jingtao Wang, Zengjie Song, **Yuxi Wang**, Jun Xiao, Yuran Yang, Shuqi Mei, Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/IDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/IDM-ICCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Informative data mining for one-shot cross-domain semantic segmentation** [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Informative_Data_Mining_for_One-Shot_Cross-Domain_Semantic_Segmentation_ICCV_2023_paper.pdf) [Code](https://github.com/yxiwang/IDM)]
