@@ -260,11 +260,9 @@ IEEE Transactions on Image Processing (IEEE TIP 2021)
 </div>
 
 
-// # 🎖 Honors and Awards
-// - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-// - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 
+<!-- # 🎖 Honors and Awards -->
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. --> 
+<!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Experiences 
 - *2025.07 - (*now*)*, Associate Professor in the [Faculty of Information Science and Engineering,](https://it.ouc.edu.cn/) [Ocean University of China](https://www.ouc.edu.cn)
@@ -272,12 +270,12 @@ IEEE Transactions on Image Processing (IEEE TIP 2021)
 - *2016.09 - 2022.01*, Ph.D. in the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), supervised by [Prof. Zhaoxiang Zhang](https://www.zhaoxiangzhang.net). 
 - *2012.09 - 2016.06*, B.E. in the [College of Information Science and Engineering, Northeastern University](http://www.ise.neu.edu.cn/).
 
-# 💬 Invited Talks
+ 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-// # 💻 Internships
-// - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships -->
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 🌏 Collaborators
 
