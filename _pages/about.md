@@ -104,6 +104,30 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/I2I-TIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-domain image-to-image translation via a unified circular framework** [[Paper](https://ieeexplore.ieee.org/abstract/document/9262049)]
+
+**Yuxi Wang**, Zhaoxiang Zhang, Wangli Hao, Chunfeng Song. 
+
+IEEE Transactions on Image Processing (IEEE TIP 2021)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/MSDA-TIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Attention guided multiple source and target domain adaptation** [[Paper](https://ieeexplore.ieee.org/abstract/document/9242273/)]
+
+**Yuxi Wang**, Zhaoxiang Zhang, Wangli Hao, Chunfeng Song. 
+
+IEEE Transactions on Image Processing (IEEE TIP 2021)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/SceneX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -231,30 +255,6 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 **Yuxi Wang**, Junran Peng, Zhaoxiang Zhang. 
 
 Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2021)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/I2I-TIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Multi-domain image-to-image translation via a unified circular framework** [[Paper](https://ieeexplore.ieee.org/abstract/document/9262049)]
-
-**Yuxi Wang**, Zhaoxiang Zhang, Wangli Hao, Chunfeng Song. 
-
-IEEE Transactions on Image Processing (IEEE TIP 2021)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/MSDA-TIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Attention guided multiple source and target domain adaptation** [[Paper](https://ieeexplore.ieee.org/abstract/document/9242273/)]
-
-**Yuxi Wang**, Zhaoxiang Zhang, Wangli Hao, Chunfeng Song. 
-
-IEEE Transactions on Image Processing (IEEE TIP 2021)
 
 </div>
 </div>
