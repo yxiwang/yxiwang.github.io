@@ -25,6 +25,7 @@ Please do not hesitate to reach out if you would like to explore possible collab
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)**.
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by **IJCV**.
 - *2025.06*: &nbsp;🎉🎉 One paper has been accepted by [MICCAI 2025](https://conferences.miccai.org/2025/en/). 
 - *2025.04*: &nbsp;🎉🎉 One paper has been accepted by **IEEE TPAMI**.
